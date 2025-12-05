@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\repositories\\ilondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:repositories\\ilondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\lond.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:lond.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\lond.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:lond.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|c:\\users\\lewishuxtable\\source\\repos\\lond.api\\models\\signupobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACA0FB-D0BE-48E4-895B-5C2DB65925B9}|LOND.API.csproj|solutionrelative:models\\signupobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,53 +94,32 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-16T08:58:59.818Z"
+              "DocumentIndex": 0,
+              "Title": "ILondRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Repositories\\ILondRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILondRepository.cs",
+              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Repositories\\ILondRepository.cs",
+              "RelativeToolTip": "Repositories\\ILondRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:27:28.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T14:21:15.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LOND.API.http",
-              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\LOND.API.http",
-              "RelativeDocumentMoniker": "LOND.API.http",
-              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\LOND.API.http",
-              "RelativeToolTip": "LOND.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-15T14:20:05.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T11:18:17.843Z"
             },
             {
               "$type": "Document",
@@ -146,34 +129,65 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-15T14:09:22.399Z"
+              "WhenOpened": "2025-10-24T10:58:33.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T14:06:53.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T10:44:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:34:54.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpObject.cs",
+              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Models\\SignUpObject.cs",
+              "RelativeDocumentMoniker": "Models\\SignUpObject.cs",
+              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Models\\SignUpObject.cs",
+              "RelativeToolTip": "Models\\SignUpObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:21:03.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LOND.API.csproj",
-              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\LOND.API.csproj",
-              "RelativeDocumentMoniker": "LOND.API.csproj",
-              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\LOND.API.csproj",
-              "RelativeToolTip": "LOND.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T14:06:43.109Z"
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\LewisHuxtable\\source\\repos\\LOND.API\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:11:05.328Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -1,0 +1,6 @@
+@LOND.API_HostAddress = http://localhost:5198
+
+GET {{LOND.API_HostAddress}}/home
+Accept: application/json
+
+###

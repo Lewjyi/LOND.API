@@ -3,20 +3,32 @@
     "ContainingType": "LOND.API.Controllers.HomeController",
     "Method": "ClassicSignIn",
     "RelativePath": "api/Home/ClassicSignIn",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "signInObject",
+        "Type": "LOND.API.Models.SignInObject",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "LOND.API.Controllers.HomeController",
     "Method": "ClassicSignUp",
     "RelativePath": "api/Home/ClassicSignUp",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "signUpObject",
+        "Type": "LOND.API.Models.SignUpObject",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
