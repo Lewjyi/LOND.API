@@ -6,15 +6,44 @@
   },
   "paths": {
     "/api/Home/ClassicSignUp": {
-      "get": {
+      "post": {
         "tags": [
           "Home"
         ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignUpObject"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignUpObject"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignUpObject"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
           }
-        }
+        },
+        "security": [
+          {
+            "ApiKey": [
+              "DemoSwaggerDifferentAuthScheme"
+            ]
+          }
+        ]
       }
     },
     "/api/Home/SSOSignUp": {
@@ -25,20 +54,59 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
           }
-        }
+        },
+        "security": [
+          {
+            "ApiKey": [
+              "DemoSwaggerDifferentAuthScheme"
+            ]
+          }
+        ]
       }
     },
     "/api/Home/ClassicSignIn": {
-      "get": {
+      "post": {
         "tags": [
           "Home"
         ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignInObject"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignInObject"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignInObject"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
           }
-        }
+        },
+        "security": [
+          {
+            "ApiKey": [
+              "DemoSwaggerDifferentAuthScheme"
+            ]
+          }
+        ]
       }
     },
     "/api/Home/SSOSignIn": {
@@ -49,10 +117,77 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
           }
-        }
+        },
+        "security": [
+          {
+            "ApiKey": [
+              "DemoSwaggerDifferentAuthScheme"
+            ]
+          }
+        ]
       }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "SignInObject": {
+        "required": [
+          "email",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "SignUpObject": {
+        "required": [
+          "email",
+          "firstName",
+          "lastName",
+          "password"
+        ],
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "ApiKey": {
+        "type": "apiKey",
+        "description": "API Key Authorization header using the ApiKey scheme. Example: \"ApiKey: my_api_key\"",
+        "name": "ApiKey",
+        "in": "header"
+      }
+    }
+  }
 }
