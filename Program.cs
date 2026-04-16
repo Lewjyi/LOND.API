@@ -58,6 +58,7 @@ void RegisterServices(WebApplicationBuilder b, IServiceCollection services)
 
     services.AddScoped<IUserService, UserService>();
     services.AddScoped<ILondRepository<LondUser, int>, UserRepository>();
+    services.AddScoped<IFoodAnalyticsService, FoodAnalyticsService>();
 
 
 
